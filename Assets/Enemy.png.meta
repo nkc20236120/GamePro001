@@ -133,8 +133,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d183dbe40bbf5e44ab6ccf50d2244cf1
-      internalID: -1529752082
+      spriteID: 7e839922dd1c3e14cbd621fc8b1b9c2f
+      internalID: -2025243566
       vertices: []
       indices: 
       edges: []
@@ -154,8 +154,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a9df2f367571cd64b9855503aa22c4a0
-      internalID: -838925640
+      spriteID: f535ef71734a03442b7d88eb5d830d23
+      internalID: 984815547
       vertices: []
       indices: 
       edges: []
@@ -175,8 +175,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: aa44b61349a48ac40844a1dedd5c92ae
-      internalID: 1807720955
+      spriteID: f68197b610f773346988a157ef2d95c4
+      internalID: -474418750
       vertices: []
       indices: 
       edges: []
@@ -196,8 +196,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 331c61b3d554b74409aec09bfb8627cd
-      internalID: -1854336875
+      spriteID: bc8441526672b464790bfc449a725caf
+      internalID: 532493107
       vertices: []
       indices: 
       edges: []
@@ -217,8 +217,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3ebfce18662e0604982018f690b5ef53
-      internalID: 1815949725
+      spriteID: 654ce6d7b981f714e8cfdc5557f308ab
+      internalID: -1097519562
       vertices: []
       indices: 
       edges: []
@@ -238,8 +238,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f50eca9867d4b7b44ae87b7bae26d4a3
-      internalID: 1614982251
+      spriteID: f2dfad7c66d709a408a89d2ac683f105
+      internalID: 1954276129
       vertices: []
       indices: 
       edges: []
@@ -255,12 +255,12 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Enemy_0: -1529752082
-      Enemy_1: -838925640
-      Enemy_2: 1807720955
-      Enemy_3: -1854336875
-      Enemy_4: 1815949725
-      Enemy_5: 1614982251
+      Enemy_0: -2025243566
+      Enemy_1: 984815547
+      Enemy_2: -474418750
+      Enemy_3: 532493107
+      Enemy_4: -1097519562
+      Enemy_5: 1954276129
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
