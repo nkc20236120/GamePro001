@@ -6,7 +6,7 @@ public class EnemyGenerator : MonoBehaviour
 {
 
     public GameObject Enemy_0Pre;
-    float span = 0.3f;
+    float span = 1f;
     float delta = 0;
 
     void Start()
