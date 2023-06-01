@@ -4,11 +4,11 @@ using UnityEngine;
 
 public class EnemyController : MonoBehaviour
 {
-    GameObject MyChar_0;
+    GameObject Player;
 
     void Start()
     {
-        this.MyChar_0 = GameObject.Find("player");
+        this.Player = GameObject.Find("Player");
     }
 
     // Update is called once per frame
@@ -20,9 +20,9 @@ public class EnemyController : MonoBehaviour
         {
             Destroy(gameObject);
         }
-        
+
         Vector2 p1 = transform.position;
-        Vector2 p2 = MyChar_0.transform.position;
+        Vector2 p2 = Player.transform.position;
         Vector2 dir = p1 - p2;
         float d = dir.magnitude;
         float r1 = 0.5f;
@@ -30,7 +30,8 @@ public class EnemyController : MonoBehaviour
 
         if (d < r1 + r2)
         {
-            Destroy (gameObject);
+            Destroy(gameObject);
         }
+       
     }
 }
