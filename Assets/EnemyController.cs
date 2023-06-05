@@ -30,6 +30,8 @@ public class EnemyController : MonoBehaviour
 
         if (d < r1 + r2)
         {
+            GameObject gauge = GameObject.Find("gauge");
+            gauge.GetComponent<GameDirector>().HPdelete();
             Destroy(gameObject);
         }
        
